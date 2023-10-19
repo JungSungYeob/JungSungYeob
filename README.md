@@ -5,4 +5,4 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sung87331)]
 
 # :mailbox: Contacts
-- EMail: sung87331@gmail.com
+- EMail:sung87331@gmail.com
