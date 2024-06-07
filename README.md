@@ -16,7 +16,8 @@
 <br/>
 
 <h2 align="left">💻 Tools</h2>
-<p> 
+<p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gitlab-F05032?style=flat&logo=Gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fork-42C2F2?style=flat&logo=git-fork&logoColor=white"/>
@@ -26,10 +27,15 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 </p>
 <br/>
+<h2 align="left">💾 My Github</h2>
 
-![JSY's GitHub status](https://github-readme-stats.vercel.app/api?username=JungSungYeob&show_icons=true&theme=dracula&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungSungYeob&layout=compact&theme=dracula)
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JungSungYeob&show_icons=true&theme=dracula&rank_icon=github" alt="JSY's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungSungYeob&layout=compact&theme=dracula" /></a> |
+| ------------- | ------------- |
+
 <br>
+
+<h2 align="left">💻 My Online Judge</h2>
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sung87331)]
 
 # :mailbox: Contacts
