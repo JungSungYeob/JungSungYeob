@@ -32,7 +32,7 @@
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JungSungYeob&show_icons=true&theme=dracula&rank_icon=github" alt="JSY's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungSungYeob&layout=compact&theme=dracula" /></a> |
 | ------------- | ------------- |
 
-<!--
+
 <br>
 <h2 align="left">💡WHAT'S IN MY PROJECT?💡</h2>
 <table>
@@ -46,6 +46,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/JungSungYeob/hogangnono-chrome-extension">abcdefGPT</a></td>
+      <td>생성형 AI 기반 부동산 선택 지원 확장프로그램</td>
+      <td>2023.09.01~2023.12.15</td>
+      <td>Javascript, React.js</td>
     </tr>
     <tr>
     </tr>
@@ -53,7 +57,8 @@
     </tr>
   </tbody>
 </table>
--->
+
+
 <!--
 <h2 align="left">💻 My Online Judge</h2>
 
