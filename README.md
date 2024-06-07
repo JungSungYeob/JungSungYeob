@@ -32,11 +32,33 @@
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JungSungYeob&show_icons=true&theme=dracula&rank_icon=github" alt="JSY's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungSungYeob&layout=compact&theme=dracula" /></a> |
 | ------------- | ------------- |
 
+<!--
 <br>
-
+<h2 align="left">💡WHAT'S IN MY PROJECT?💡</h2>
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트명</th>
+      <th>한 줄 설명</th>
+      <th>기간</th>
+      <th>주요스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+-->
+<!--
 <h2 align="left">💻 My Online Judge</h2>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sung87331)]
+-->
 
-# :mailbox: Contacts
-- EMail:sung87331@gmail.com
+## :mailbox: Contacts
+- e-mail: dev.sungyeob@gmail.com
