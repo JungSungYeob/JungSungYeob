@@ -1,5 +1,5 @@
 ## About me
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=300&section=header&desc=👋🏻Hello%20World!&nbsp;&descSize=40&descAlignY=25&text=JSY's GitHub&fontSize=90&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=300&section=header&desc=👋🏻Hello%20World!&nbsp;&descSize=40&descAlignY=25&text=JSY's%20GitHub&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 
 <h2 align="left">🔨 TECH STACK</h2>
 <p align="left">
