@@ -52,7 +52,7 @@
       <td>Javascript, React.js</td>
     </tr>
     <tr>
-      <td><a href="">abcdefGPT-Wisenut</a></td>
+      <td><a href="https://github.com/abcdefGPT/abcdefGPT-FE.git">abcdefGPT-Wisenut</a></td>
       <td>생성형 AI 기반 업무 지원 어시스턴트</td>
       <td>2024.01.01~현재</td>
       <td>Javascript, React.js</td>
@@ -64,7 +64,7 @@
       <td>Javascript, React.js</td>
     </tr>
     <tr>
-      <td><a href="">SWE 프로젝트</a></td>
+      <td><a href="https://github.com/JungSungYeob/SWE-project.git">SWE 프로젝트</a></td>
       <td>코인 거래 웹페이지 제작</td>
       <td>2023.03.02~현재</td>
       <td>Javascript, React.js</td>
