@@ -46,7 +46,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/JungSungYeob/hogangnono-chrome-extension">abcdefGPT-호갱노노</a></td>
+      <td><a href="https://github.com/abcdefGPT-chambit/hogangnono-chrome-extension.git">abcdefGPT-호갱노노</a></td>
       <td>생성형 AI 기반 부동산 선택 지원 확장프로그램</td>
       <td>2023.09.01~2023.12.15</td>
       <td>Javascript, React.js</td>
