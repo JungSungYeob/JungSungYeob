@@ -58,7 +58,7 @@
       <td>Javascript, React.js</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JungSungYeob/DB_react">DB 프로젝트</a></td>
+      <td><a href="https://github.com/Database-5-Project-2023/Client.git">DB 프로젝트</a></td>
       <td>따릉이 홈페이지 개선 및 기능 추가</td>
       <td>2023.09.01~2023.12.21</td>
       <td>Javascript, React.js</td>
