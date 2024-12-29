@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)"/>
 </p>
 <br/>
 <h2 align="left">💾 My Github</h2>
