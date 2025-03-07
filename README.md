@@ -62,46 +62,6 @@
 | ------------- | ------------- |
 
 
-<br>
-<h2 align="left">💡WHAT'S IN MY PROJECT?💡</h2>
-<table>
-  <thead>
-    <tr>
-      <th>프로젝트명</th>
-      <th>한 줄 설명</th>
-      <th>기간</th>
-      <th>주요스택</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/abcdefGPT-chambit/hogangnono-chrome-extension.git">abcdefGPT-호갱노노</a></td>
-      <td>생성형 AI 기반 부동산 선택 지원 확장프로그램</td>
-      <td>2023.09.01~2023.12.15</td>
-      <td>Javascript, React.js</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abcdefGPT/abcdefGPT-FE.git">abcdefGPT-Wisenut</a></td>
-      <td>생성형 AI 기반 업무 지원 어시스턴트</td>
-      <td>2024.01.01~현재</td>
-      <td>Javascript, React.js</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Database-5-Project-2023/Client.git">DB 프로젝트</a></td>
-      <td>따릉이 홈페이지 개선 및 기능 추가</td>
-      <td>2023.09.01~2023.12.21</td>
-      <td>Javascript, React.js</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JungSungYeob/SE_project03.git">SWE 프로젝트</a></td>
-      <td>코인 거래 웹페이지 제작</td>
-      <td>2023.03.02~현재</td>
-      <td>Javascript, React.js</td>
-    </tr>
-  </tbody>
-</table>
-
-
 <!--
 <h2 align="left">💻 My Online Judge</h2>
 
